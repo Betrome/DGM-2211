@@ -1,0 +1,25 @@
+// Exported skin weight map file
+// 
+BasicMesh3	Pelvis	BasicMesh3_Pelvis.iff
+BasicMesh3	Spine1	BasicMesh3_Spine1.iff
+BasicMesh3	Spine2	BasicMesh3_Spine2.iff
+BasicMesh3	Spine3	BasicMesh3_Spine3.iff
+BasicMesh3	Neck1	BasicMesh3_Neck1.iff
+BasicMesh3	Neck2	BasicMesh3_Neck2.iff
+BasicMesh3	Head	BasicMesh3_Head.iff
+BasicMesh3	RClavicle	BasicMesh3_RClavicle.iff
+BasicMesh3	RShoulder	BasicMesh3_RShoulder.iff
+BasicMesh3	RElbow	BasicMesh3_RElbow.iff
+BasicMesh3	RWrist	BasicMesh3_RWrist.iff
+BasicMesh3	LClavicle	BasicMesh3_LClavicle.iff
+BasicMesh3	LShoulder	BasicMesh3_LShoulder.iff
+BasicMesh3	LElbow	BasicMesh3_LElbow.iff
+BasicMesh3	LWrist	BasicMesh3_LWrist.iff
+BasicMesh3	LHip	BasicMesh3_LHip.iff
+BasicMesh3	LKnee	BasicMesh3_LKnee.iff
+BasicMesh3	LAnkle	BasicMesh3_LAnkle.iff
+BasicMesh3	LFoot	BasicMesh3_LFoot.iff
+BasicMesh3	RHip	BasicMesh3_RHip.iff
+BasicMesh3	RKnee	BasicMesh3_RKnee.iff
+BasicMesh3	RAnkle	BasicMesh3_RAnkle.iff
+BasicMesh3	RFoot	BasicMesh3_RFoot.iff
